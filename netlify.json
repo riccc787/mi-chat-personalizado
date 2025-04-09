@@ -1,0 +1,10 @@
+{
+  "name": "lachatdirb",
+  "description": "Chat personalizado similar a DeepSeek con conexión a API",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": ".next",
+  "environment": {
+    "OPENAI_API_KEY": "sk-c799d0a88aa8496ca79e02346ccc6029"
+  }
+}
